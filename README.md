@@ -1,6 +1,6 @@
-# mental-health repo
+# test-flask repo
 
-To run: python page-01.py
+To run: python application.py
 
 If you need anything else, let me know.
 
